@@ -1,4 +1,20 @@
+
+
+body {
+	background-color: #B8FF94;
+}
+
+
+h1 {
+	color: #FFFFDA;
+	font-family: Pacifico;
+	font-size: 50px
+}
+
 p {
-	font-family: Arial;
-	font-size: 300px;
+	color: #FFFFDA;
+	font-family: Roboto;
+	font-size: 20px;
+	margin-top: -50px
+
 }
